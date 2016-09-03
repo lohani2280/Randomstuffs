@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1467855527 source:d:\kaam ka\c\c++ codes\string class 2\main.cpp
+	<iostream>
+	"String.h"
+
+1467860071 d:\kaam ka\c\c++ codes\string class 2\string.h
+
+1467860686 source:d:\kaam ka\c\c++ codes\string class 2\string.cpp
+	<iostream>
+	<cstring>
+	"String.h"
+
